@@ -43,3 +43,15 @@ Feel free to submit issues or pull requests if you have suggestions for improvem
 
 ## License
 This project is open-source and available under the MIT License.
+
+### Note on Large Files
+
+> **Note:**  
+> This project contains large files (such as `video_flower.mp4`) managed with [Git Large File Storage (LFS)](https://git-lfs.github.com/).  
+> GitHub does **not** preview large videos in the browser.  
+> To access these files, please install Git LFS and clone the repository as shown below:
+
+```sh
+git lfs install
+git clone https://github.com/ShreyaShrinivasIllur/flower-landing-page.git
+```
